@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://ffffyu.github.io"
 
 github:
-  username: imcommingyeah # change to your GitHub username
+  username: ffffyu # change to your GitHub username
 
 # twitter:
 #   username: twitter_username # change to your Twitter username
@@ -119,7 +119,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: imcommingyeah/imcommingyeah.github.io # <gh-username>/<repo>
+    repo: ffffyu/ffffyu.github.io # <gh-username>/<repo>
     repo_id: R_kgDONt04CQ
     category: Announcements
     category_id: DIC_kwDONt04Cc4CmO50
